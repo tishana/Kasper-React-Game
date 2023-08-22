@@ -11,6 +11,10 @@ export default function Board() {
         <Card />
         <Card />
         <Card />
+        <Card />
+        <Card />
+        <Card />
+        <Card />
         </ul>
         
     </div>

@@ -4,7 +4,6 @@
     box-sizing:border-box;
 }
 .Header {
-    width: 100vw;
-    height: 100px;
+    flex:1;
     background-color: darkslategrey;
 }

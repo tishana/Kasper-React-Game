@@ -1,5 +1,17 @@
 .Card{
-    width:100px;
-    height:100px;
+    width: 400px;
+    height:400px;
+    
+    margin:20px;
+}
+
+.cardBottom {
+    height:50%;
+    background-color: blueviolet;
+
+}
+
+.cardTop {
+    height:50%;
     background-color: chartreuse;
 }

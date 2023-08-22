@@ -1,16 +1,23 @@
-# Board Game with Kaper in React
+# Board Game with Kasper in React: LARP
 
 
-## What we need
+## A page which contains cards for different players
 
-### A header
+### Dark mode/light mode
 
 
 ### A board
+UL of cards
+flex in the x axis
 
 
 ### Cards for each Player Character
+owner,
+character name,
+character race,
+bio,
+passive skills
 
 
-### ???
+### Skills or whatever???
 
