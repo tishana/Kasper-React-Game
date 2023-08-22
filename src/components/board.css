@@ -1,0 +1,14 @@
+.Board {
+    width:100vw;
+    height:100%;
+    background-color: bisque;
+}
+
+.Board ul {
+    display:flex;
+    justify-content: space-evenly;
+}
+
+li {
+    background-color: brown;
+}
